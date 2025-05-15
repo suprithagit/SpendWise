@@ -74,6 +74,11 @@ ScreenShots:
 1. HomePage : http://localhost:8080/
 ![image](https://github.com/user-attachments/assets/aa664246-6135-441c-a046-98aa010e03ca)
 
-2.
+2. SpendWise Tracker: http://localhost:8080/tracker
+   ![image](https://github.com/user-attachments/assets/97991a91-1c49-4223-a800-225b1d8098f9)
+   ![image](https://github.com/user-attachments/assets/16aeff74-dafb-4273-a051-5656976f06d9)
+
+   
+
 
 
