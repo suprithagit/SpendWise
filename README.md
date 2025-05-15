@@ -1,27 +1,64 @@
-SpendWise - Personal Expense TrackerSpendWise is a simple web application designed to help you track your daily expenses.
-It provides features to add, view, edit, and delete expense entries, view summaries, and visualize spending by category.
+# SpendWise
 
-FeaturesAdd Expenses: Easily add new expense entries with details like category, amount, description, and date.
-View Expenses: See a list of your recorded expenses.Filter Expenses: View expenses by day, week, month, or a custom date range.
-Search Expenses: Filter expenses by category.Edit Entries: Modify existing expense records.
-Delete Entries: Remove unwanted expense entries.
+**SpendWise** - is a simple web application designed to help you track your daily expenses.
+
+
+✨ Features
+
+This application provides the following functionalities:
+* Add new expense entries
+* View a list of all expenses
+* Edit or delete existing entries
+* View summaries of total spending
+* Visualize expenses by category using charts or graphs
+
+## 📌 How It Works
+
+Add Expenses: Easily add new expense entries with details like category, amount, description, and date.
+
+View Expenses: See a complete list of your recorded expenses.
+
+Filter Expenses: Filter expenses by day, week, month, or a custom date range.
+
+Search Expenses: Search and filter expenses based on category.
+
+Edit Entries: Modify existing expense records with updated details.
+
+Delete Entries: Remove unwanted or incorrect expense entries.
+
 Summary: Get a quick overview of your total spending and identify your biggest spending category.
+
 Category Breakdown: Visualize your spending distribution across different categories using a pie chart.
 
-Technologies UsedBackend:
+🛠️ Technologies Used
+
+🔙 Backend
 Java 21
 Spring Boot
 Spring Data JPA
 Hibernate
 RESTful Web Services
 
-Frontend:
-HTML5CSS3 (with Bootstrap 5)
-JavaScriptThymeleaf (Templating Engine)
-Chart.js (for the pie chart)
-Database:MySQL
+🌐 Frontend
+HTML5
+CSS3 (with Bootstrap 5)
+JavaScript
+Thymeleaf (Templating Engine)
+Chart.js (for pie chart visualization)
 
-Prerequisites
+🗄️ Database
+   MySQL
+
+✅ Prerequisites
+Make sure you have the following installed on your system:
+
+Java Development Kit (JDK) 21 or later
+
+Maven (or Gradle if you are using it)
+
+MySQL Server
+
+A modern web browser
 
 Before you begin, ensure you have the following installed:Java Development Kit (JDK) 21 or laterMaven (or Gradle if you are using Gradle)
 MySQL ServerA modern web browserSetup and InstallationClone the Repository:
@@ -70,7 +107,8 @@ Click the "Edit" or "Delete" buttons for individual expense entries.See the summ
 Future EnhancementsUser Authentication and AuthorizationMore advanced reporting and analyticsExporting expense data (e.g., to CSV)
 Support for multiple currenciesAdding income trackingImproved mobile responsivenessLicense.
 
-ScreenShots:
+## 📸 Screenshots 
+
 1. HomePage : http://localhost:8080/
 ![image](https://github.com/user-attachments/assets/aa664246-6135-441c-a046-98aa010e03ca)
 
