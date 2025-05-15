@@ -67,15 +67,15 @@ This application provides the following functionalities:
 🗄️ Database Setup : CREATE DATABASE spendwise_db;
 
 
-## Properties
+# Properties
 
-# Database Configuration (MySQL Example)
+## Database Configuration (MySQL Example)
 spring.datasource.url=jdbc:mysql://localhost:3306/spendwise_db?useSSL=false&serverTimezone=UTC
 spring.datasource.username=your_mysql_username
 spring.datasource.password=your_mysql_password
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 
-# JPA/Hibernate Configuration
+## JPA/Hibernate Configuration
 spring.jpa.hibernate.ddl-auto=update 
 spring.jpa.show-sql=true 
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
