@@ -68,4 +68,12 @@ Click the "TrackIt" button to go to the expense tracker page.On the tracker page
 View your expenses in the table.Use the filters and search bar to narrow down the displayed expenses.
 Click the "Edit" or "Delete" buttons for individual expense entries.See the summary and category breakdown chart.
 Future EnhancementsUser Authentication and AuthorizationMore advanced reporting and analyticsExporting expense data (e.g., to CSV)
-Support for multiple currenciesAdding income trackingImproved mobile responsivenessLicense[Optional: Add license information here, e.g., MIT License]
+Support for multiple currenciesAdding income trackingImproved mobile responsivenessLicense.
+
+ScreenShots:
+1. HomePage : http://localhost:8080/
+![image](https://github.com/user-attachments/assets/aa664246-6135-441c-a046-98aa010e03ca)
+
+2.
+
+
