@@ -31,7 +31,7 @@ This application provides the following functionalities:
 * Category Breakdown: Visualize your spending distribution across different categories using a pie chart.
 
 # 🛠️ Technologies Used
-------------------------------
+
 🔙 Backend
 * Java 21
 * Spring Boot
