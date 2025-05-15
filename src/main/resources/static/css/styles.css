@@ -1,0 +1,107 @@
+body.landing-page {
+    background-image: url('/static/images/background.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; 
+    margin: 0; 
+    font-family: Arial, sans-serif; 
+    color: white; 
+    text-align: center; 
+    position: relative;
+}
+
+
+body.tracker-page {
+    background-color: rgb(193, 191, 193); 
+    min-height: 100vh;
+    margin: 0; 
+    font-family: Arial, sans-serif;
+    color: #212529; 
+    text-align: center; 
+    position: relative;
+    padding-bottom: 50px; 
+}
+
+.logo {
+    position: absolute; 
+    top: 30px; 
+    left: 20px; 
+    width: 120px; 
+    height: 120px; 
+    z-index: 10; 
+    border-radius: 50%;
+    overflow: hidden; 
+    display: block; 
+    object-fit: cover; 
+}
+
+.content {
+    position: absolute; 
+    top: 50%; 
+    left: 50%;
+    transform: translate(-50%, -50%); 
+}
+
+.quote {
+    font-size: 3rem; 
+    font-weight: bold; 
+    color: honeydew; 
+    text-shadow: 1px 1px 2px #000; 
+    margin-bottom: 20px; 
+}
+
+.track-btn {
+    font-size: 2rem; 
+    padding: 16px 32px;
+	font-weight: bold;
+}
+
+
+.container {
+    margin-top: 80px; 
+}
+
+.card {
+    box-shadow: 0 2px 4px rgba(0,0,0,.05); 
+}
+
+#expenseTable {
+    margin-top: 20px; 
+}
+
+
+#expenseTable th {
+    background-color: #e9ecef; 
+    color: #495057; 
+}
+
+
+#expenseTable td {
+    vertical-align: middle; 
+}
+
+#expenseTable .btn-sm {
+    padding: .25rem .5rem; 
+    font-size: .875rem; 
+    line-height: 1.5; 
+    border-radius: .2rem; 
+}
+
+#expenseTable .btn-warning {
+    margin-right: 5px; 
+}
+
+.card .card-header {
+    font-weight: bold;
+}
+
+#categoryPieChart {
+    max-width: 100%; 
+    height: auto; 
+    margin-top: 20px; 
+}
+
+
+#customDateRange, #customEndDate {
+    transition: all 0.3s ease-in-out; 
+}
